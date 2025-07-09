@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        ".jsonc": "json",
+        "stdlib.h": "c",
+        "time.h": "c",
+        "unistd.h": "c"
+    }
+}
