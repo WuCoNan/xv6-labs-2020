@@ -144,6 +144,7 @@ UPROGS=\
 	$U/_zombie\
 	$U/_kalloctest\
 	$U/_statistics\
+	$U/_bcachetest\
 
 fs.img: mkfs/mkfs README $(UPROGS)
 	mkfs/mkfs fs.img README $(UPROGS)
